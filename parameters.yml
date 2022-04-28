@@ -1,0 +1,5 @@
+version: v1.0
+testName: diakstech-demo-scenario
+testPlan: AZL_scenario.jmx
+description: 'JMeter Scenario DiaksTech'
+engineInstances: 1
